@@ -1,5 +1,5 @@
 {
-  "name": "My Token List",
+  "name": "Gyas Token List",
   "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
   "keywords": [
     "audited",
@@ -14,6 +14,10 @@
     "compound": {
       "name": "Compound Finance",
       "description": "Tokens that earn interest on compound.finance"
+    },
+    "gyas": {
+      "name": "Gyas K.K.",
+      "description": "Tokens that are created by Gyas K.K."
     }
   },
   "timestamp": "2020-06-12T00:00:00+00:00",
@@ -38,6 +42,17 @@
       "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
       "tags": [
         "compound"
+      ]
+    },
+    {
+      "chainId": 1,
+      "address": "0x66e899425f898c55262ae91e4d4f8f78e1078545",
+      "symbol": "ISYST",
+      "name": "ISYS Token",
+      "decimals": 8,
+      "logoURI": "https://i-sys.io/images/favicon.png",
+      "tags": [
+        "gyas"
       ]
     }
   ],
